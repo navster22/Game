@@ -94,3 +94,7 @@ const thumbsDown = () => {
     showImage(); 
     showScore();
  }
+
+ const justForFun = () => {
+     console.log("Just for fun.")
+ }
